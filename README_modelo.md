@@ -9,6 +9,7 @@
 ## Alterações realizadas
 
 Configurado o LTS para poder aceitar imagens grandes.
+<br> Mudança incompatível.
 
 ---
 
