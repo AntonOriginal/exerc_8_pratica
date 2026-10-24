@@ -9,6 +9,7 @@
 ## Alterações realizadas
 
 Configurado o LTS para poder aceitar imagens grandes.
+<br> Linha alterada para fix_1.
 <br> Mudança incompatível.
 
 ---
